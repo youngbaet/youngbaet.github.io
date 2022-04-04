@@ -1,1 +1,26 @@
+body {
+  filter: drop-shadow(0.25rem 0 0.75rem #ef1840);
+  background-color: rgb(800, 90, 20, .5);
+}
+h1{
+  color: black;
+  border: 1px solid black;
+  padding-left: 10px;
+  background-color: white;
+  font-size: 26px;
+  font-family: calibri, arial, sans-serif;
+}
 
+.education-header, .exp-header, .public-header, .research-header, .Skills-header {
+  border: 1px solid black;
+  padding-left: 10px; 
+  background-color: white;
+  font-family: calibri, arial, sans-serif;
+}
+
+p, li, h2, h3, h4, h5{
+  font-family: calibri, arial, sans-serif;
+}
+img{
+  width:280px
+}
